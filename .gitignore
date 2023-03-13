@@ -1,16 +1,11 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+# Created by https://www.toptal.com/developers/gitignore/api/mdbook
+# Edit at https://www.toptal.com/developers/gitignore?templates=mdbook
 
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
+### MdBook ###
+book
 
-# Book build output
-_book
 
-# eBook build output
-*.epub
-*.mobi
-*.pdf
+# End of https://www.toptal.com/developers/gitignore/api/mdbook.DS_Store
+
+.DS_Store
+mdbook-admonish.css
